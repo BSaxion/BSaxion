@@ -85,6 +85,7 @@ me.say_hi()
 <a href="https://github.com/BS/delete-multiple-repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSaxion&repo=delete-multiple-repositories&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="delete multiple repositories" />
 </a>
--->
+
  ## 👨‍💻 This week, I spent my time on:
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eri-bga&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/eri-bga/github-readme-stats)
+[![Bga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eri-bga&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/eri-bga/github-readme-stats)
+-->
