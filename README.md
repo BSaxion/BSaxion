@@ -61,20 +61,19 @@ me.say_hi()
 ![](https://img.shields.io/badge/PHP-php?style=flat&logo=php&logoColor=white&color=6aa6f8)
 
 
-<!--
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/BSaxion/BSaxion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSaxion&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Brhane's GitHub Stats" />
+<a href="https://github.com/eri-bga/eri-bga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eri-bga&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Brhane's GitHub Stats" />
 </a>
 
-<a href="https://github.com/BSaxion/BSaxion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BSaxion&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Brhane's GitHub Stats" />
+<a href="https://github.com/eri-bga/eri-bga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eri-bga&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Brhane's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BSaxion&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eri-bga&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ## 🗂️ Highlight Projects
@@ -86,8 +85,6 @@ me.say_hi()
 <a href="https://github.com/BS/delete-multiple-repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSaxion&repo=delete-multiple-repositories&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="delete multiple repositories" />
 </a>
-
- ## 👨‍💻 This week, I spent my time on:
-<!--
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 -->
+ ## 👨‍💻 This week, I spent my time on:
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eri-bga&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/eri-bga/github-readme-stats)
