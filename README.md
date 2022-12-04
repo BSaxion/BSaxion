@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BSaxion.BSaxion)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<a href="https://app.daily.dev/bga"><img src="https://github.com/eri-bga/eri-bga/blob/master/devcard.svg" width="400" alt="BGA's Dev Card"/></a>
-
-
+<a href="https://app.daily.dev/bga"><img src="https://github.com/eri-bga/eri-bga/blob/main/devcard.svg?r=jfz" width="400" alt="Brhane G. Ashebr's Dev Card"/></a>
 
 ```python
 #!/usr/bin/python
