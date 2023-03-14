@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=BSaxion.BSaxion)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=eri-bga.eri-bga)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <a href="https://app.daily.dev/eribga"><img src="https://api.daily.dev/devcards/646991cce50e47ac8887f738318a21fa.png?r=hzf" width="400" alt="Brhane's Dev Card"/></a>
